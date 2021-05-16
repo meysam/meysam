@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 | | Java | [Spring Batch Sample](https://github.com/Paisley-Digital/spring-batch-example) | Spring, Spring Batch, Batch Error Handling, CSV
 | | Java/Nodejs | [WebRTC Sample](https://github.com/meysam/video-chat-poc) | Java EE/Jakarta EE, IBM Liberty Microprofile, WebRTC, NodeJS
 | | Java/Architecture| [Hexagonal Architecture](https://github.com/Paisley-Digital/hexagonal-architecture) | Java
-| | Java| [Dropwizard Example](https://github.com/Paisley-Digital/hexagonal-architecture) | Java, EJB
-| | Java| [Phonebook API](https://github.com/Paisley-Digital/hexagonal-architecture) | Spring Boot application, OpenAPI, Document(notion), Docker
+| | Java| [Dropwizard Example](https://github.com/meysam/dropwizard-example) | Java, EJB, io.dropwizard, dropwizard-auth
+| | Java| [Phonebook API](https://github.com/meysam/phone-book-api) | Spring Boot application, OpenAPI, Document(notion), Docker, Spring Cloud, 
 
 
 
