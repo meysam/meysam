@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 | | Java/Nodejs | [WebRTC Sample](https://github.com/meysam/video-chat-poc) | Java EE/Jakarta EE, IBM Liberty Microprofile, WebRTC, NodeJS
 | | Java/Architecture| [Hexagonal Architecture](https://github.com/Paisley-Digital/hexagonal-architecture) | Java
 | | Java| [Dropwizard Example](https://github.com/Paisley-Digital/hexagonal-architecture) | Java, EJB
-| | Java| [Phonebook API](https://github.com/Paisley-Digital/hexagonal-architecture) | Spring Boot application, OpenAPI, Document
-(notion), Docker
+| | Java| [Phonebook API](https://github.com/Paisley-Digital/hexagonal-architecture) | Spring Boot application, OpenAPI, Document(notion), Docker
 
 
 
