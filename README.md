@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01d219904f469f8a94) 
+- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01d219904f469f8a94) and [Authlete](https://www.authlete.com/company/#team) 
 - 🌱 I’m currently learning critical thinking, problem-solving, Ruby, graph theory, and Architecture! 
 - 👯 I’m looking to collaborate on Formal Verification project
 - 📫 How to reach me: meysam.tamkin@gmail.com
